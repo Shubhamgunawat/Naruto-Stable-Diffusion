@@ -1,5 +1,7 @@
 # Introduction
 
+![Diagram](/output.png)
+
 This objective of this poject is to fine-tune the Stable Diffusion XL base model to generate images in the distinct art style of "Naruto" anime series.  
 Because SDXL is a very large model—with across its UNet, base and refiner along with dual text encoders—the primary challenge is to accomplish this fine-tuning under **severe hardware constraints**, specifically:
 
